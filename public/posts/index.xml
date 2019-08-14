@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on kaw</title>
+    <title>Blog on kaw</title>
     <link>https://nd2687.github.io/blog/posts/</link>
-    <description>Recent content in Posts on kaw</description>
+    <description>Recent content in Blog on kaw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 14 Aug 2019 22:45:09 +0900</lastBuildDate>

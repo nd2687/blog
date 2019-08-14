@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ねる</title>
+    <title>Tags on kaw</title>
     <link>https://nd2687.github.io/blog/tags/</link>
-    <description>Recent content in Tags on ねる</description>
+    <description>Recent content in Tags on kaw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
+    <lastBuildDate>Wed, 14 Aug 2019 22:45:09 +0900</lastBuildDate>
     
 	<atom:link href="https://nd2687.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CKAD</title>
+      <link>https://nd2687.github.io/blog/tags/ckad/</link>
+      <pubDate>Wed, 14 Aug 2019 22:45:09 +0900</pubDate>
+      
+      <guid>https://nd2687.github.io/blog/tags/ckad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://nd2687.github.io/blog/tags/kubernetes/</link>
+      <pubDate>Wed, 14 Aug 2019 22:45:09 +0900</pubDate>
+      
+      <guid>https://nd2687.github.io/blog/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>資格</title>
+      <link>https://nd2687.github.io/blog/tags/%E8%B3%87%E6%A0%BC/</link>
+      <pubDate>Wed, 14 Aug 2019 22:45:09 +0900</pubDate>
+      
+      <guid>https://nd2687.github.io/blog/tags/%E8%B3%87%E6%A0%BC/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

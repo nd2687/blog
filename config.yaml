@@ -7,6 +7,7 @@ googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
 enableGitInfo: true
 canonifyurls: true
+publishDir:  docs
 
 taxonomies:
   tag: tags

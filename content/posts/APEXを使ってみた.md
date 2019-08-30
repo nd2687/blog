@@ -1,5 +1,6 @@
 ---
 title: APEXを使ってみた
+date: 2019-08-31T22:45:09+09:00
 tags: ["APEX", "Terraform"]
 draft: false
 ---

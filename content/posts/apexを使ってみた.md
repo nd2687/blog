@@ -5,13 +5,24 @@ tags: ["APEX", "Terraform"]
 draft: false
 ---
 
-APEXに使ってみたので、ざつにまとめを記録する。
+date: 2019-08-31T10:27:20+09:00
+
+Apexを使ってみたので、雑にまとめを記録する。
 
 とりあえずNetlifyという自動ビルドツールをいれてみたので早急に試してみたいw
-git pushするだけでよしなにしてくれるはずだ・・・
 
+git pushするだけでよしなにしてくれるはずだ・・・([追記]簡単にできた！)
+
+## Apexとは
+AWSのLambda functionをデプロイするツールです。  
+ロールバック、メトリクスの確認、ログの確認、テスト実行などできます。  
+あと、Lambda functionで公式にサポートされていない言語を使うこともできます。  
+あと、AWSコンポーネントを管理するためにTerraformのラッパーも用意されています。  
+TerraformでLambdaリソースを作成しようとすると、関数コードをzipに固めてアップロードをするので、関数コードに変更がなくてもステートファイルに差分が出てしまうらしい。
 
 ## インストール
+公式ドキュメントに書いてます（手抜き）
+
 https://github.com/apex/apex
 
 ```
@@ -129,7 +140,7 @@ Are you sure? (yes/no) yes
 
 ## AWSコンポーネントの管理
 
-`apex infra`がterraformコマンドのwrapperになっている
+`apex infra`がterraformコマンドのラッパーになっている
 
 https://github.com/apex/apex/blob/master/docs/infra.md
 

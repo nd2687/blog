@@ -140,7 +140,8 @@ Are you sure? (yes/no) yes
 
 ## AWSコンポーネントの管理
 
-`apex infra`がterraformコマンドのラッパーになっている
+`apex infra`がterraformコマンドのラッパーになっている  
+`apex_function_変数名` でARNを取得するよ。  
 
 https://github.com/apex/apex/blob/master/docs/infra.md
 

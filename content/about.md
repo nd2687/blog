@@ -51,3 +51,5 @@ draft: false
 ### SNS
 
 [Twitter](https://twitter.com/nd2687)
+
+<a class="twitter-timeline" href="https://twitter.com/nd2687?ref_src=twsrc%5Etfw">Tweets by nd2687</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

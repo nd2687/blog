@@ -25,6 +25,8 @@ map dd removeTab
 map u restoreTab
 map H goBack
 map L goForward
+map <c-f> scrollFullPageDown
+map <c-b> scrollFullPageUp
 ```
 
 - 「Save Changes」をクリックで反映  

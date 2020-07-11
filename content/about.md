@@ -40,9 +40,13 @@ draft: false
 
 ### Certification
 
+2020.7 [Google Cloud Certified Professional Cloud Architect](https://www.credential.net/387b7f83-ffa5-4db2-9949-3a1b977f4499?key=d49620822f246a91745e34370c257ee0c8dc5f6aadeb75d3abf5bbc267737adb#gs.ahvlxh)
+
 2019.7 Certified Kubernetes Administrator
+![cka](images/CKA_Certificate.pdf "cka")
 
 2019.3 Certified Kubernetes Application Developer
+![ckad](images/CKAD_Certificate.pdf "ckad")
 
 2017.8 UML Modeling Skill Certification L1
 

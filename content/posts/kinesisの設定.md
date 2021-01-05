@@ -16,7 +16,10 @@ Kinesis Advantage2 赤軸静音（ピンク軸）
 2. Program + f12 キーのリマップができる。以下の通りに行った。
 
 ESC → Home/End  
-Command → CapsLock (本当はCtrlを割り当てたいが認識されなかった。昔のkinesisならうまくいっていたのに。。。)  
+~~Command → CapsLock (本当はCtrlを割り当てたいが認識されなかった。昔のkinesisならうまくいっていたのに。。。) ~~   
+Ctrl → CapsLock（Macモードにすると右側の親指の部分の配列が左がCtrl、右がcommandになるが、Macモードは恐らくリマップをやってくれてるだけなので、リマップは最初の配列の設定値を元に行うため、リマップするときは右がCtrl、左がCommandとなるので注意）  
+Command → Delete
+
 Space → BackSpace  
 Enter → Space  
 BackSpace → Enter  
@@ -29,7 +32,7 @@ BackSpace → Enter
 MacBookをつかっているのでアダプターを使ってるけど、USBポートはやっぱり欲しい。無線マウスの分をキーボード側につけたかった。
 キーボード、マウス、スピーカーこれだけで3つは使うので。。
 
-2. Ctrlコマンドをリマップできない。  
+~~2. Ctrlコマンドをリマップできない。  ~~
 これ非常に辛い。MacBook自体に付いている標準的なキー配列と大きく異なることになるので、両刀で使いこなせるか不安。
 ちょっと忘れてしまったが他にもキーのリマップが好きなようにできなかったので、関連してそれも残念だった（昔のkinesisはできていたはず）。
 

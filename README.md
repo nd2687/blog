@@ -1,5 +1,7 @@
 ##
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f54a810e-f4c0-488f-a321-9e192b4f2798/deploy-status)](https://app.netlify.com/sites/relaxed-sinoussi-30c0cf/deploys)
+
 ```
 $ hugo new posts/[記事名].md
 ```
